@@ -1,0 +1,9 @@
+@font-face {
+ font-famil:"NautilusPompilius";
+  src: 
+      url("fonts/NautilusPompilius.woff2")formar("woff2"),
+      url("fonts/NautilusPompilius.woff")formar("woff");
+   font-weight:normal;
+   font-style:normal;
+   }
+  
